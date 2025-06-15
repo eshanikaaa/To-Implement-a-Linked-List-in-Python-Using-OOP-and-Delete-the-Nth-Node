@@ -1,0 +1,12 @@
+Original List:
+10 -> 20 -> 30 -> 40 -> 50 -> None
+Deleting node 3 with value 30
+
+After deleting 3rd node:
+10 -> 20 -> 40 -> 50 -> None
+Deleting node 1 with value 10
+
+After deleting 1st node:
+20 -> 40 -> 50 -> None
+Error: Index out of range.
+Error: Cannot delete from an empty list.
